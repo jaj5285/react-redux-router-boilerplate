@@ -1,0 +1,4 @@
+.TodoList ul {
+  text-align: left; }
+  .TodoList ul li {
+    cursor: pointer; }
